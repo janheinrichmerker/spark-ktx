@@ -1,5 +1,5 @@
-[![GitHub Actions](https://img.shields.io/github/actions/workflow/status/heinrichreimer/spark-ktx/ci.yml?branch=master&style=flat-square)](https://github.com/heinrichreimer/spark-ktx/actions/workflows/ci.yml)
-[![JitPack](https://img.shields.io/jitpack/v/github/heinrichreimer/spark-ktx?style=flat-square)](https://jitpack.io/#dev.reimer/spark-ktx)
+[![GitHub Actions](https://img.shields.io/github/actions/workflow/status/janheinrichmerker/spark-ktx/ci.yml?branch=master&style=flat-square)](https://github.com/janheinrichmerker/spark-ktx/actions/workflows/ci.yml)
+[![JitPack](https://img.shields.io/jitpack/v/github/janheinrichmerker/spark-ktx?style=flat-square)](https://jitpack.io/#dev.reimer/spark-ktx)
 
 # 💾 spark-ktx<sup>[α](#status-α)</sup>
 

@@ -15,7 +15,7 @@ repositories {
 
 dependencies {
     implementation(kotlin("stdlib"))
-    api("org.apache.spark:spark-core_2.12:3.5.3")
+    api("org.apache.spark:spark-core_2.12:3.5.4")
 }
 
 lateinit var javadocJar: TaskProvider<Jar>
